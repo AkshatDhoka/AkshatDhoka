@@ -45,3 +45,30 @@ My long-term goal is to become a **Software Engineer specializing in AI and Full
 - 🌐 Mastering **Next.js, TypeScript, Full Stack Development, AI and ML**.
 - 🧠 Practicing **Data Structures & Algorithms**.
 - 🚀 Preparing for **Software Engineering internships**.
+
+- # 💻 Tech Stack
+
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,sql" />
+</p>
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
