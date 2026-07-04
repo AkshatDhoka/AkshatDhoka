@@ -38,3 +38,10 @@ Currently, I'm focused on expanding my expertise in **Artificial Intelligence, M
 My long-term goal is to become a **Software Engineer specializing in AI and Full Stack Development**, creating products that deliver meaningful impact at scale.
 
 ---
+# 🚀 Current Focus
+
+- 🤖 Building **Shifra AI** – An AI-powered developer assistant.
+- 📚 Learning **LLMs, RAG, and Agentic AI**.
+- 🌐 Mastering **Next.js, TypeScript, Full Stack Development, AI and ML**.
+- 🧠 Practicing **Data Structures & Algorithms**.
+- 🚀 Preparing for **Software Engineering internships**.
